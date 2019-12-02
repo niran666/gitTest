@@ -10,6 +10,6 @@ import javax.swing.*;
 public class Main {
     public static void main(String[] args) {
         String a="14";
-        asv
+        int ab=1;
     }
 }
