@@ -1,3 +1,5 @@
+import javax.swing.*;
+
 /**
  * @ClassName : Main
  * @Description : TODO
@@ -6,5 +8,7 @@
  **/
 
 public class Main {
-
+    public static void main(String[] args) {
+        String a="14";
+    }
 }
